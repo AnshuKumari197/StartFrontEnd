@@ -1,0 +1,22 @@
+main {
+    border: 5px solid brown;
+    /* width:50%;    ye relatively work karta hai parent child ke according */
+     width: 25vw; /* ye absolute hota hai */
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size:1.5em;
+}
+
+p{
+    font-size:1.5em;
+}
+
+section {
+    border: 5px dashed green;
+    width: 50vw;
+}

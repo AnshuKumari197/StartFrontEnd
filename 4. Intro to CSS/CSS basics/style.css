@@ -1,0 +1,38 @@
+/* header {
+    font-size:32px;
+    width: 500px;
+} */
+
+ header h1 {
+    background-color: rgba(38, 206, 38, 0.5);
+    background-color: #2d20a13d;
+    background-color: hsl(200, 40%, 50%);
+    /* width: 10em; */
+    width: 10rem;
+    font-size: 10vw;
+}
+
+h1 {
+    background-color: greenyellow;
+}
+
+.red-border {
+    background-color: cyan;
+    border: 5px solid red;
+}
+
+#lorem-text1 {
+    font-weight: bold;
+}
+
+img {
+    width: 10vw;
+}
+header {
+    width: 400px;
+    border: 1px solid red;
+}
+
+header img {
+    width: 10%;
+}

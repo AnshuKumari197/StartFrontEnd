@@ -1,0 +1,40 @@
+header {
+    background-color: rgb(185, 239, 251);
+    padding:20px;
+}
+
+nav {
+    background-color: rgb(189, 247, 227);
+    padding:20px;
+}
+
+aside {
+    background-color:rgb(253, 232, 236);
+    padding:20px;
+}
+
+.lang {
+    background-color: rgb(225, 221, 250);
+    padding:20px;
+}
+
+.form {
+    background-color: rgb(251, 202, 219);
+    padding:20px;
+}
+
+.visit {
+    background-color: rgb(197, 252, 233);
+    padding:20px;
+}
+
+.food{
+    background-color:rgb(251, 251, 212);
+    padding:20px;
+}
+
+footer{
+    background-color:rgb(244, 178, 178);
+    padding:10px;
+}
+
